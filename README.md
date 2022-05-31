@@ -4,7 +4,7 @@
 * Python 3
 * Scikit-learn
 * Pandas
-* Numpy 1.14.3+
+* Numpy
 
 ### Training
 
