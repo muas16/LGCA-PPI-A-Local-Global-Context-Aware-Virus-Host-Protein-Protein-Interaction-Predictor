@@ -8,26 +8,17 @@
 
 ### Training
 
-For performing experiment on Denovo or Yong_et_al Datasets:
+For performing experiment on Denovo or Yong_et_al Datasets, Run:
 
     python main.py
 
 
-The training info will be outputted in standard output and log.logger\_file.
+For performing experiment on Berman Dataset, Run:
+
+    python main_kfold.py
 
 
-## Usage
 
-### Training
-For performing experiment on Denovo or Yong_et_al Datasets:
-
-
-   run  python main.py
-   
-For performing experiment on Berman Dataset:
-
-
-   run  python main_kfold.py
 
 ## Datssets
 Download the Datasets from :
