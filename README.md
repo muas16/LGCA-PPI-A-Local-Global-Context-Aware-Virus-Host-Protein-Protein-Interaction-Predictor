@@ -12,4 +12,6 @@
 
     python train.py conf/train.json
 
-
+## Datssets
+Download the Datasets from the below link:
+https://sds_genetic_analysis.opendfki.de/HVI/Download/
