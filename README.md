@@ -8,7 +8,9 @@
 
 ### Training
 
-    python train.py conf/train.json
+For performing experiment on Denovo or Yong_et_al Datasets:
+
+    python main.py
 
 
 The training info will be outputted in standard output and log.logger\_file.
