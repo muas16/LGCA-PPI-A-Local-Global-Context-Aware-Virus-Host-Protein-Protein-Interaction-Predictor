@@ -9,10 +9,15 @@
 ## Usage
 
 ### Training
-For experimentation on Denovo or Yong_et_al Datasets:
+For performing experiment on Denovo or Yong_et_al Datasets:
 
 
    run  python main.py
+   
+For performing experiment on Berman Dataset:
+
+
+   run  python main_kfold.py
 
 ## Datssets
 Download the Datasets from :
