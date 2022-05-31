@@ -6,6 +6,14 @@
 * Pandas
 * Numpy 1.14.3+
 
+### Training
+
+    python train.py conf/train.json
+
+
+The training info will be outputted in standard output and log.logger\_file.
+
+
 ## Usage
 
 ### Training
