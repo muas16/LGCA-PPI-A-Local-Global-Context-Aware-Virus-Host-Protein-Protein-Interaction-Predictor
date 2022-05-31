@@ -5,3 +5,11 @@
 * Scikit-learn
 * Pandas
 * Numpy 1.14.3+
+
+## Usage
+
+### Training
+
+    python train.py conf/train.json
+
+
