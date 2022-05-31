@@ -9,9 +9,9 @@
 ## Usage
 
 ### Training
-
-    python train.py conf/train.json
+For experimentation on Denovo or Yong_et_al Datasets:
+   run  python main.py
 
 ## Datssets
-Download the Datasets from the below link:
+Download the Datasets from :
 https://sds_genetic_analysis.opendfki.de/HVI/Download/
